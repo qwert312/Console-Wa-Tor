@@ -27,6 +27,7 @@ public class SimulationInterface {
 
             System.out.println("\nStart a new simulation? Enter 'n' if not.");
             String input = scanner.nextLine();
+            System.out.println();
             if (input.equals("n"))
                 break;
         }
