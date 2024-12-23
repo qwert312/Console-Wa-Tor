@@ -6,10 +6,11 @@ Console Wa-Tor application with pre-configured simulation parameters.
 
 The program was created using:
 
-* IntelliJ IDEA 2024.1.4
-* JDK 22.0.2
-* JUnit 5.11.0
-* Mockito 5.12.0
+* IntelliJ IDEA
+* Java 22
+* Maven
+* JUnit 5
+* Mockito
 
 ## Installation and Launch
 
