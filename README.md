@@ -14,10 +14,8 @@ The program was created using:
 
 ## Installation and Launch
 
-* Download and extract the ConsoleWaTor.rar archive from the [releases](https://github.com/qwert312/Console-Wa-Tor/releases/latest).
+* Download and extract the Console-Wa-Tor.rar archive from the [releases](https://github.com/qwert312/Console-Wa-Tor/releases/latest).
 * Run start.bat
-
-To work with the source code, simply download and extract the Source archive from the same location, and then open the Console-Wa-Tor-1.1.0 folder.
 
 ## Usage
 
